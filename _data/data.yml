@@ -3,219 +3,263 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Oleksij Samorukov
+    tagline: Cloud Engineer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: samm@net-art.cz
+    phone: +420 728566760
+    timezone: Central European Time
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website: smallhacks.wordpress.com #do not add http://
+    linkedin: alexsamorukov
+    # xing: alandoe
+    github: samm-git
+    # telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Czech
+          level: Professional
+
+        - idiom: Ukrainian
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Russian
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Travel
           link:
 
-        - item: Snowboarding
+        - item: Reverse Engineering
           link:
 
-        - item: Cooking
+        - item: Electronic, IoT
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      I am an experienced Cloud Engineer with a solid foundation in Linux systems.
+      With a deep understanding of Linux architecture and administration, I am skilled in optimizing and managing cloud-based infrastructure.
+      My expertise lies in deploying and maintaining highly available and scalable solutions on cloud platforms.
+      I am well-versed in cloud technologies, including virtualization, containerization, and orchestration.
+      
+      With a strong focus on security and performance, I have a proven track record of implementing solutions that meet the evolving needs of businesses.
+
+# education:
+#     title: Education
+#     info:
+#       - degree: MSc in Computer Science
+#         university: University of London
+#         time: 2011 - 2012
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
+#       - degree: BSc in Applied Mathematics
+#         university: Bristol University
+#         time: 2007 - 2011
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Sr. System Engineer, Architect
+        time: 2017 - Present
+        company: McKinsey & Company
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+           Working on internal and client projects, consulting and implementation
+
+            - <b>Cloud Engineering</b><br>
+              Architecting, building, and operating multi-tenant, production grade AWS environments
+            - <b>Infrastructure as Code</b><br>
+              Architect and SRE offering of Terraform Enterprise and Terraform Cloud including implementing Sentinel policies
+            - <b>Containerization</b>
+              Implementing and supporting solutions based on Docker, Kubernetes, Nomad, Consul, Vault, Kubernetes, LXC, KVM
+            - <b>Software Engineering</b>
+              Writing and extending existing software solutions on n Golang, Python, NodeJS
+      - role: Linux System Engineer, SRE, Performance Optimization
+        time: 2011 - 2015
+        company: eBay (X.Commerce)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+         As part of the Expert Consulting Group i was participating and leading different activities, including:
+            - Performance Optimization and Load Testing, optimizing cache layers
+            - Internal infrastructure architecting and implementation, private clouds
+            - Client audits and on-site engagements
+            - Creation of the training and certification materials, whitepapers, presentations
+      - role: System adminitrator, Architect
+        time: 2015 - 2017
+        company: NetArt s.r.o., Czech Republic
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+         - Implementing and extending existing VoIP solutions (Asterisk, Cisco, Mera, Siemens)
+         - Custom software development for the clients (C, Perl, NodeJS)
+         - Provisioning and supporting virtualization solutions for the customers based on vSphere, XEN, KVM
+         - Network administration
+         - LIR services
+      - role: UNIX senior system adminitrator
+        time: 2009 - 2011
+        company: Magento, US
+        details: |
+            - System administration of the organization servers (Linux, FreeBSD)
+            - Managing internal and client infrastructure
+            - Implementing monitoring and APM solutions, paging tools, managing team
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - role: IT manager and software developer
+        time: 2004 - 2007
+        company: Shevchenko Didkovskiy & Partners, Ukraine
+        details: |
+            System administration, web development, UNIX integration, VoIP, CRM
+      - role:  Chief Technology Officer
+        time: 1999-2004
+        company: Deep Vision, Ukraine
+        details: |
+            Web Sites development, intra/internet solutions, hosting services, e-commerce solutions, CRM developer
+certifications:
+      title: Certifications
+      list:
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        - name: "Certified Kubernetes Administrator (CKA)"
+          start: 2022
+          end: 2025
+          organization: CNCF
+          credentialid: LF-vguvhqy3o7
+          credentialurl: ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/ecc352d5-95b6-457e-8c89-4c0534edf497-oleksij-samorukov-a02f31da-7f4d-47d3-81f0-183482d87a6b-certificate.pdf
+          credentialname: CNCF
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        - name: "AWS Certified Solutions Architect – Professional"
+          start: 2021
+          end: 2024
+          organization: Amazon Web Services
+          credentialid: 
+          credentialurl: www.youracclaim.com/badges/d83c9f12-cd9a-42bb-900c-0defaaba1da2
+          credentialname: Credly
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        - name: "AWS Network Connectivity Options training"
+          start: 2021
+          end: 
+          organization: Amazon Web Services
+          credentialid: 
+          credentialurl: www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=zCn0pUzmmUqbybzVYFje9g2
+          credentialname: aws.training
+
+        - name: "Splunk 7.x Fundamentals (IOD)"
+          start: 2020
+          organization: Splunk
+          credentialid: a7080ec8eefc
+          credentialurl: education.splunk.com/award/completion/b44bcd8e-ad74-3d3c-8572-a7080ec8eefc/view-ext
+          credentialname: Splunk
+
+        - name: "HashiCorp Certified: Terraform Associate"
+          start: 2020
+          end: 2023
+          organization: HashiCorp
+          credentialid: HCTAO-002
+          credentialurl: www.youracclaim.com/badges/a1aab748-a666-472c-9821-50203aef537d/linked_in_profile
+          credentialname: Credly
+
+        - name: AWS Certified Solutions Architect - Associate
+          start: 2019
+          end: 2022
+          organization: Amazon
+          credentialid: 355552553
+          credentialname: Amazon Web Services
+
+        - name: "Cisco Certified Network Associate Industrial (CCNA I)"
+          start: 2006
+          end:
+          organization: Cisco
+          credentialid: 205920561
+          credentialurl: 
+          credentialname: 
+
+
+        - name: "Zend Certified Engineer"
+          start: 2005
+          end:
+          organization: Zend by Perforce
+          credentialid: ZEND002883
+          credentialurl: www.zend-zce.com/en/yellow-pages/ZEND002883
+          credentialname: ZEND002883
+
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Over the years, I've used various Open Source Software (OSS) projects either
+      as part of work or for some personal projects and I've always made an effort
+      to contribute back to them. Below is a list of some projects i contributed to:
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Smartmontools
+        link: "https://smartmontools.org"
+        tagline: "The smartmontools utilities to control and monitor storage systems using the Self-Monitoring, Analysis and Reporting Technology System (SMART) built into most modern ATA/SATA, SCSI/SAS and NVMe disks."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: GNU Image Manipulation Program, GIMP
+        link: "https://www.gimp.org/"
+        tagline: "GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. "
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: FreeBSD
+        link: "https://freebsd.org"
+        tagline: "FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Bruteblock
+        link: "https://github.com/samm-git/bruteblock"
+        tagline: "Software for blocking bruteforce attacks with ipfw"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Kubernetes, Docker, Nomad, LXC, KVM
+        #level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Linux, FreeBSD
+        #level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Monitoring and observability
+        #level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: AWS, Azure, Digital Ocean
+        #level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: IaaC, Terraform, CloudFormation, Ansible
+        #level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Golang, TypeScript, Python, C
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: TCP/IP, DNS, Firewalls, VoIP, Routing
+        #level: 60%
+
+
+footer:
+# >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
