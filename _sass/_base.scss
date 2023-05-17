@@ -207,6 +207,11 @@ p {
     color: $text-grey;
     flex: 25%;
   }
+  @media print {
+    .cert-url {
+      display: none;
+    }
+  }
   .company,
   .university,
   .cert-org {
