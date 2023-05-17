@@ -108,15 +108,7 @@ experiences:
               Implementing and supporting solutions based on Docker, Kubernetes, Nomad, Consul, Vault, Kubernetes, LXC, KVM
             - <b>Software Engineering</b><br>
               Writing and extending existing software solutions on n Golang, Python, NodeJS
-      - role: Linux System Engineer, SRE, Performance Optimization
-        time: 2011 - 2015
-        company: eBay (X.Commerce)
-        details: |
-         As part of the Expert Consulting Group i was participating and leading different activities, including:
-            - Performance Optimization and Load Testing, optimizing cache layers
-            - Internal infrastructure architecting and implementation, private clouds
-            - Client audits and on-site engagements
-            - Creation of the training and certification materials, whitepapers, presentations
+
       - role: System adminitrator, Architect
         time: 2015 - 2017
         company: NetArt s.r.o., Czech Republic
@@ -126,6 +118,15 @@ experiences:
          - Provisioning and supporting virtualization solutions for the customers based on vSphere, XEN, KVM
          - Network administration
          - LIR services
+      - role: Linux System Engineer, SRE, Performance Optimization
+        time: 2011 - 2015
+        company: eBay (X.Commerce)
+        details: |
+         As part of the Expert Consulting Group i was participating and leading different activities, including:
+            - Performance Optimization and Load Testing, optimizing cache layers
+            - Internal infrastructure architecting and implementation, private clouds
+            - Client audits and on-site engagements
+            - Creation of the training and certification materials, whitepapers, presentations
       - role: UNIX senior system adminitrator
         time: 2009 - 2011
         company: Magento, US
