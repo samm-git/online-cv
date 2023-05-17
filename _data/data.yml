@@ -104,9 +104,9 @@ experiences:
               Architecting, building, and operating multi-tenant, production grade AWS environments
             - <b>Infrastructure as Code</b><br>
               Architect and SRE offering of Terraform Enterprise and Terraform Cloud including implementing Sentinel policies
-            - <b>Containerization</b>
+            - <b>Containerization</b><br>
               Implementing and supporting solutions based on Docker, Kubernetes, Nomad, Consul, Vault, Kubernetes, LXC, KVM
-            - <b>Software Engineering</b>
+            - <b>Software Engineering</b><br>
               Writing and extending existing software solutions on n Golang, Python, NodeJS
       - role: Linux System Engineer, SRE, Performance Optimization
         time: 2011 - 2015
