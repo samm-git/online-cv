@@ -241,25 +241,14 @@ skills:
 
     toolset:
       - name: Kubernetes, Docker, Nomad, LXC, KVM
-        #level: 98%
-
+      - name: ArgoCD, git, helm, gitops, GitLab, GitHub
       - name: Linux, FreeBSD
-        #level: 98%
-
       - name: Monitoring and observability
-        #level: 98%
-
       - name: AWS, Azure, Digital Ocean
-        #level: 95%
-
-      - name: IaaC, Terraform, CloudFormation, Ansible
-        #level: 95%
-
+      - name: IaaC, Terraform, CloudFormation, Ansible, Packer
       - name: Golang, TypeScript, Python, C
-
       - name: TCP/IP, DNS, Firewalls, VoIP, Routing
-        #level: 60%
-
+      - name: MySQL, PostgreSQL, MongoDB, Redis
 
 footer:
 # >
