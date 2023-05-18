@@ -93,7 +93,7 @@ career-profile:
 #             - Bullet point
 #             - Bullet point
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
       - role: Sr. System Engineer, Architect
         time: 2017 - Present
@@ -102,21 +102,21 @@ experiences:
            Working on internal and client projects, consulting, and implementation
 
             - <b>Cloud Engineering</b><br>
-              Architecting, building, and operating multi-tenant, production-grade AWS environments
+              Architected, built, and operated multi-tenant, production-grade AWS environments.
             - <b>Infrastructure as Code</b><br>
-              Architect and SRE offering of Terraform Enterprise and Terraform Cloud, including implementing Sentinel policies
+              Implemented Terraform Enterprise and Terraform Cloud adoption which included the implementation of Sentinel policies.
             - <b>Containerization</b><br>
-              Implementing and supporting solutions based on Docker, Kubernetes, Nomad, Consul, Vault, Kubernetes, LXC, KVM
+              Carried out the implementation and support of solutions based on Docker, Kubernetes, Nomad, Consul, Vault, Kubernetes, LXC, and KVM.
             - <b>Software Engineering</b><br>
-              Writing and extending existing software solutions on Golang, Python, NodeJS
+              I was involved in writing and extending existing software solutions using Golang, Python, and NodeJS.
 
       - role: System administrator, Architect
         time: 2015 - 2017
         company: NetArt s.r.o., Czech Republic
         details: |
-         - Implementing and extending existing VoIP solutions (Asterisk, Cisco, Mera, Siemens)
+         - Implemented and extended existing VoIP solutions (Asterisk, Cisco, Mera, Siemens)
          - Custom software development for clients (C, Perl, NodeJS)
-         - Provisioning and supporting virtualization solutions for the customers based on vSphere, XEN, KVM
+         - Provisioned and supported virtualization solutions for the customers based on vSphere, XEN, KVM
          - Network Administration
          - LIR services
       - role: Linux System Engineer, SRE, Performance Optimization
@@ -134,7 +134,7 @@ experiences:
         details: |
             - System administration of the organization servers (Linux, FreeBSD)
             - Managing internal and client infrastructure
-            - Implementing monitoring and APM solutions, paging tools, and caring team
+            - Implemented monitoring and APM solutions, paging tools, and support team operations
 
       - role: IT manager and software developer
         time: 2004 - 2007
