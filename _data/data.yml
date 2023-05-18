@@ -107,7 +107,7 @@ experiences:
             - <b>Containerization</b><br>
               Implementing and supporting solutions based on Docker, Kubernetes, Nomad, Consul, Vault, Kubernetes, LXC, KVM
             - <b>Software Engineering</b><br>
-              Writing and extending existing software solutions on n Golang, Python, NodeJS
+              Writing and extending existing software solutions on Golang, Python, NodeJS
 
       - role: System adminitrator, Architect
         time: 2015 - 2017
