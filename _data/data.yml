@@ -98,42 +98,42 @@ experiences:
         time: 2017 - Present
         company: McKinsey & Company
         details: |
-           Working on internal and client projects, consulting and implementation
+           Working on internal and client projects, consulting, and implementation
 
             - <b>Cloud Engineering</b><br>
-              Architecting, building, and operating multi-tenant, production grade AWS environments
+              Architecting, building, and operating multi-tenant, production-grade AWS environments
             - <b>Infrastructure as Code</b><br>
-              Architect and SRE offering of Terraform Enterprise and Terraform Cloud including implementing Sentinel policies
+              Architect and SRE offering of Terraform Enterprise and Terraform Cloud, including implementing Sentinel policies
             - <b>Containerization</b><br>
               Implementing and supporting solutions based on Docker, Kubernetes, Nomad, Consul, Vault, Kubernetes, LXC, KVM
             - <b>Software Engineering</b><br>
               Writing and extending existing software solutions on Golang, Python, NodeJS
 
-      - role: System adminitrator, Architect
+      - role: System administrator, Architect
         time: 2015 - 2017
         company: NetArt s.r.o., Czech Republic
         details: |
          - Implementing and extending existing VoIP solutions (Asterisk, Cisco, Mera, Siemens)
-         - Custom software development for the clients (C, Perl, NodeJS)
+         - Custom software development for clients (C, Perl, NodeJS)
          - Provisioning and supporting virtualization solutions for the customers based on vSphere, XEN, KVM
-         - Network administration
+         - Network Administration
          - LIR services
       - role: Linux System Engineer, SRE, Performance Optimization
         time: 2011 - 2015
         company: eBay (X.Commerce)
         details: |
-         As part of the Expert Consulting Group i was participating and leading different activities, including:
+         As part of the Expert Consulting Group, I participated in and led different activities, including:
             - Performance Optimization and Load Testing, optimizing cache layers
             - Internal infrastructure architecting and implementation, private clouds
             - Client audits and on-site engagements
             - Creation of the training and certification materials, whitepapers, presentations
-      - role: UNIX senior system adminitrator
+      - role: UNIX senior system administrator
         time: 2009 - 2011
         company: Magento, US
         details: |
             - System administration of the organization servers (Linux, FreeBSD)
             - Managing internal and client infrastructure
-            - Implementing monitoring and APM solutions, paging tools, managing team
+            - Implementing monitoring and APM solutions, paging tools, and caring team
 
       - role: IT manager and software developer
         time: 2004 - 2007
@@ -217,24 +217,23 @@ oss:
     title: OSS Contributions
     intro: >
       Over the years, I've used various Open Source Software (OSS) projects either
-      as part of work or for some personal projects and I've always made an effort
-      to contribute back to them. Below is a list of some projects i contributed to:
+      as part of work or for some personal projects, and I've always made an effort
+      to contribute back to them. Below is a list of some projects I contributed to:
     contributions:
       - title: Smartmontools
         link: "https://smartmontools.org"
-        tagline: "The smartmontools utilities to control and monitor storage systems using the Self-Monitoring, Analysis and Reporting Technology System (SMART) built into most modern ATA/SATA, SCSI/SAS and NVMe disks."
+        tagline: "The smartmontools utility control and monitor storage systems using the Self-Monitoring, Analysis, and Reporting Technology System (SMART) built into most modern ATA/SATA, SCSI/SAS, and NVMe disks."
 
       - title: GNU Image Manipulation Program, GIMP
         link: "https://www.gimp.org/"
-        tagline: "GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. "
-
+        tagline: "GIMP is a cross-platform image editor for GNU/Linux, macOS, Windows, and other operating systems."
       - title: FreeBSD
         link: "https://freebsd.org"
-        tagline: "FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms."
+        tagline: "FreeBSD is an operating system that powers modern servers, desktops, and embedded platforms."
 
       - title: Bruteblock
         link: "https://github.com/samm-git/bruteblock"
-        tagline: "Software for blocking bruteforce attacks with ipfw"
+        tagline: "Software for blocking brute force attacks with IPFW"
 
 skills:
     title: Skills
