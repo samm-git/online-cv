@@ -95,7 +95,7 @@ career-profile:
 experiences:
     title: Work Experience
     info:
-      - role: Sr. System Engineer, Architect
+      - role: Principal Engineer, Architect
         time: 2017 - Present
         company: McKinsey & Company
         details: |
@@ -243,12 +243,13 @@ skills:
       - name: Kubernetes, Docker, Nomad, LXC, KVM
       - name: ArgoCD, git, helm, gitops, GitLab, GitHub
       - name: Linux, FreeBSD
-      - name: Monitoring and observability
+      - name: Monitoring and observability (Grafana, Datadog, Splunk, Prometheus, New Relic, etc.)
       - name: AWS, Azure, Digital Ocean
       - name: IaaC, Terraform, CloudFormation, Ansible, Packer
       - name: Golang, TypeScript, Python, C
       - name: TCP/IP, DNS, Firewalls, VoIP, Routing
       - name: MySQL, PostgreSQL, MongoDB, Redis
+      - name: RAIDs, NVMe, SAS/SATA, SMART
 
 footer:
 # >
