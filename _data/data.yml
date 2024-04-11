@@ -243,7 +243,7 @@ skills:
       - name: Kubernetes, Docker, Nomad, LXC, KVM
       - name: ArgoCD, git, helm, gitops, GitLab, GitHub
       - name: Linux, FreeBSD
-      - name: Monitoring and observability (Grafana, Datadog, Splunk, Prometheus, New Relic, etc.)
+      - name: Monitoring and observability (Grafana, Datadog, Splunk, Prometheus, New Relic, OpenTelemetry)
       - name: AWS, Azure, Digital Ocean
       - name: IaaC, Terraform, CloudFormation, Ansible, Packer
       - name: Golang, TypeScript, Python, C
