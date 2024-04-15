@@ -101,6 +101,8 @@ experiences:
         details: |
            Working on internal and client projects, consulting, and implementation
 
+            - <b>Team lead</b><br>
+              Leading team up to 15 people, managing IT streams on the client projects.
             - <b>Cloud Engineering</b><br>
               Architected, built, and operated multi-tenant, production-grade AWS environments.
             - <b>Infrastructure as Code</b><br>
@@ -149,6 +151,14 @@ experiences:
 certifications:
       title: Certifications
       list:
+
+        - name: "Certified Kubernetes Application Developer (CKAD)"
+          start: 2023
+          end: 2026
+          organization: CNCF
+          credentialid: LF-r4ytapl4za
+          credentialurl: www.credly.com/badges/56671d6b-2e9a-4a53-804a-bdddbd2c93c4
+          credentialname: CNCF
 
         - name: "Certified Kubernetes Administrator (CKA)"
           start: 2022
