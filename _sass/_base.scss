@@ -45,7 +45,7 @@ p {
 
 .sidebar-wrapper {
   grid-column: span 3;
-  order: 2;
+  order: $sidebar-order;
   background: $theme-color;
   color: #fff;
   a {
@@ -161,6 +161,7 @@ p {
 
 .main-wrapper {
   grid-column: span 7;
+  order: $resume-order;
   background: #fff;
   padding: 60px;
   .section-title {
@@ -190,8 +191,8 @@ p {
     display: flex;
   }
   .job-title,
-  .degree,
-  .cert-title {
+  .cert-title,
+  .degree {
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
@@ -288,3 +289,4 @@ p {
     color: $heart;
   }
 }
+
