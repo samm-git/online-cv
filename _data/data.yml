@@ -158,7 +158,7 @@ certifications:
           organization: CNCF
           credentialid: LF-r4ytapl4za
           credentialurl: www.credly.com/badges/56671d6b-2e9a-4a53-804a-bdddbd2c93c4
-          credentialname: CNCF
+          credentialname: Credly
 
         - name: "Certified Kubernetes Administrator (CKA)"
           start: 2022
@@ -173,7 +173,7 @@ certifications:
           end: 2024
           organization: Amazon Web Services
           credentialid: 
-          credentialurl: www.youracclaim.com/badges/d83c9f12-cd9a-42bb-900c-0defaaba1da2
+          credentialurl: www.credly.com/badges/d83c9f12-cd9a-42bb-900c-0defaaba1da2
           credentialname: Credly
 
         - name: "AWS Network Connectivity Options training"
