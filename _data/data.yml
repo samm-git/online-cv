@@ -253,6 +253,7 @@ skills:
     toolset:
       - name: Kubernetes, Docker, Nomad, LXC, KVM
       - name: ArgoCD, git, helm, gitops, GitLab, GitHub
+      - name: Okta, OneLogin, KeyCloak, SAML, OIDC, Cognito
       - name: Linux, FreeBSD
       - name: Monitoring and observability (Grafana, Datadog, Splunk, Prometheus, New Relic, OpenTelemetry)
       - name: AWS, Azure, Digital Ocean
